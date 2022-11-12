@@ -8,6 +8,7 @@ from tkinter.colorchooser import askcolor
 
 
 
+
 def guardar(x):
     a = filedialog.asksaveasfile(defaultextension=".txt",filetypes=[("textfile",".txt"),("pdf files",".pdf")])
     b = f"{a}.txt"

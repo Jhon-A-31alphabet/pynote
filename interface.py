@@ -2,6 +2,7 @@ from tkinter import *
 
 from fuctions import *
 
+print("executing")
 
 
 
